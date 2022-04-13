@@ -1,12 +1,12 @@
 body {
-    background-color: black;
-    color: bisque;
+    background-color: beige;
+    color: black;
   }
 
  .dropbtn {
     background-color: #4CAF50;
     color: white;
-    padding: 16px;
+    padding: 26px;
     font-size: 16px;
     border: none;
     cursor: pointer;
