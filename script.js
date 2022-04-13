@@ -81,6 +81,10 @@ let mapAPIKey = "AmpysT1pr07PdK0Hl-eNZcMdQ4jay_wH6_AcuDGa9OBwDrDdseMCJc7ambzc4Wb
 
 let map;
 
+let infobox;
+
+let pin;
+
 function GetMap() {
     
     "use strict";
